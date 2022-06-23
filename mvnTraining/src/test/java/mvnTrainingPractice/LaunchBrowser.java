@@ -26,6 +26,8 @@ public class LaunchBrowser {
 
 		int checkBoxSize = driver.findElements(By.xpath("//input[@type='checkbox']")).size();
 		System.out.println(checkBoxSize);
+		
+		System.out.println("Test bla bla git stuff naser");
 
 	}
 
